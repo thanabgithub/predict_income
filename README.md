@@ -6,8 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/97363174/219844203-0617c1b0-25a5-4a11-bf4a-1f812bcd515a.png)
 
+![image](https://user-images.githubusercontent.com/97363174/219844336-0d66eded-b7a9-40ec-b081-bbd147f8ac74.png)
 
-![image](https://user-images.githubusercontent.com/97363174/219844296-c5ee0edd-7ff2-43e3-a162-2c33229857de.png)
 
 
 AUC: 0.8447306210148366
